@@ -1,4 +1,6 @@
 # PAP-Desenvolvimento
 Este projeto tem como objetivo criar um site e uma aplicação móvel para a Padaria/Pastelaria Pérola Doce, localizada no Zambujeiro, com foco na modernização do processo de encomendas e gestão interna.
+
 O site será desenvolvido com HTML, CSS, JavaScript e uma base de dados (a definir entre MongoDB, Node.js, Excel ou Wamp). Permitirá agendamento online de produtos personalizados (tipo, tamanho, recheio), cálculo automático de entrega, sistema de login com perfis de cliente, funcionário e administrador, histórico de encomendas, gestão de estados (recebida, em preparação, feita, a entregar, entregue), controlo de stocks e integração com Google Maps.
+
 A aplicação móvel será uma versão simplificada, com acesso rápido às principais funcionalidades, interface otimizada e notificações em tempo real sobre o estado das encomendas
